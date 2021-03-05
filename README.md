@@ -28,7 +28,7 @@
 
 ## Advertencia
 
-<img src="https://github.com/wrrulos/CITTZ/blob/main/Imagenes/Batch.PNG">
+<img src="https://github.com/wrrulos/Imagenes-Github/blob/main/EvilCat/Advertencia.PNG">
 
 # Video
 
