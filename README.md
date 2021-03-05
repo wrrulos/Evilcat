@@ -2,7 +2,7 @@
 <h3> Malware de codigo abierto para Windows</h3>
 <br/>
 <p align="center">
-<img src="https://github.com/wrrulos/Imagenes-Github/blob/main/EvilCat/EvilCa.jpg" title="CITTZ">
+<img src="https://github.com/wrrulos/Imagenes-Github/blob/main/EvilCat/EvilCat.jpg" title="CITTZ">
 </p>
 <br/>
 
